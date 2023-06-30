@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: 8c0e976b48579694e9907472ff3d3c0d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime_Blue_Run_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 490
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8397ad82883014bace16a9bdea693f
+      internalID: -904061601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Die_1
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 491
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1466da7ea2b70439491f5caf680cfe
+      internalID: -18252018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Die_5
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 451
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ab8bb79389a004fbafc63a74774b08
+      internalID: -1014954567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Die_5
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 409
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc428816a04500740b98d664ced2beb9
+      internalID: -1241182982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Die_4
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 404
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5027026c8394eea4483578abc292c198
+      internalID: 532408193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Run_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 490
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf656ad1dc2cd004d8c942851f8ff2c4
+      internalID: 928952305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Right_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 409
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae6012a3cf8eb546b4a814c0ad543c8
+      internalID: 695509465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Right_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 409
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adf208e615983d47b3ed0b9010bb9d4
+      internalID: 637784549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Right_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 409
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffee9438fe07734c947d6a3bf18f09a
+      internalID: -1278392948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Right_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 409
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74591bc9fcb10be40a259607ec42f976
+      internalID: 731149786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Right_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 410
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd091f2b293d9404283f346755b44b59
+      internalID: -1245490986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Right_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 410
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede16c5417648954f895738670318961
+      internalID: 1135436019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Run_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 450
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a61d01f9a12764daae07bf21c200e7
+      internalID: -1560651403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Die_1
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 448
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886789d04c9a7c442882b14985720606
+      internalID: 667178238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Run_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 450
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e384ca3e038691646a3d9d045cf44d4d
+      internalID: -611551843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Run_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 450
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da547641b4c6f274cbe588604bee55e2
+      internalID: 1712568794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Run_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 490
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3222ea94cf8668b42b46687d45681fb1
+      internalID: -173402563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Run_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 490
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fb06dbfcd5dee40b83ffd570d0b780
+      internalID: -1848231088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Run_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 490
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29e0709f7aaae2489c6a57e3f0fc217
+      internalID: 1857815002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Run_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 490
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa1abe0086b3d645b8cfd4aedd7b737
+      internalID: 551667412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Run_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 490
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fedd3fc9ea8cba4c9a9cc05412f6dfa
+      internalID: -1158830919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Run_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 490
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37056eb8560fdfd4093af52c50023f81
+      internalID: -1910756265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Die_2
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 491
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0e46c8e25d7ac4db58c9f984b9c2f5
+      internalID: -2088006410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Die_3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 488
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6f6438e37bd6447ad44a6a62ed99b5
+      internalID: -1123520350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Run_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 450
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22cdba311fe3d942bf5a17409e11582
+      internalID: 1706302341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Run_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 450
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30782d1f3e0111b4b8d372a7d035c88a
+      internalID: -334955650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Run_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 410
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734aff01876b49240a99bab39056ec41
+      internalID: 1005993922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Run_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 410
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a6b9b6d35a2b4aaa8ec97bc487efc
+      internalID: -1073530423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Left_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 323
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17fe90ecce11f94e85f1461aa5091c9
+      internalID: 711981948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Die_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 312
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7bb74f8ca49f84e948c39bc2e2c46b
+      internalID: -645723639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Die_2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 313
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3458092cb501841aec00f50f2751b6
+      internalID: 1449001822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Die_3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 313
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59de23637d8f0ab48a12a160c504257e
+      internalID: -1963674830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Die_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 313
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ad0b907a7ac24ca5fb31aa6f8d461
+      internalID: 1379557499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 225
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c8d0ec5b34c04c839112540bfd305
+      internalID: 1765266924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 225
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f740675a89e0a5a49b7547058d1ca2f8
+      internalID: -619796346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 225
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df628ad7e37d7d488b5f30c9cef55d8
+      internalID: 812904963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 225
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01e49e98f27ab9419e0100bb93c1787
+      internalID: -160487033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Run_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 218
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acb19c9e552cc0498caf11dd04aee1f
+      internalID: 1889219302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Run_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 218
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d5b05663d77584186a6d737012301a
+      internalID: -51431264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Run_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 218
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e74d2de61b0b04981c7ade41d6c7e5
+      internalID: -1511055946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Fire
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 190
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700487326ed80f9479e1d27d12590e7e
+      internalID: -1164130921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Froze
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 190
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff8d4743342fa40bb992049ea30d09
+      internalID: -585703436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Die_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 108
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d692bc6dedf990942b24f649918e9e00
+      internalID: 1936736412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Die_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423c1eab7d1283645a77a7c3b38ec1ae
+      internalID: -1612141791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Destroy_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 177
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d25a2e88542aa24fafb5b9dca07ad64
+      internalID: -1134637969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet__Fire_Destroy_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 177
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7496d80d1f3badd45828f4c28124365d
+      internalID: 666015139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet__Froze_Destroy_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 177
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953da2a435c864042bbdedc4ae5bd618
+      internalID: 191507222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 165
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.33534452, y: 0.4076803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1839f9084ecf54d990d1cc71d83d94
+      internalID: 422278683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Die_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 108
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603421f63c7fb0449d80c910f79d3a2
+      internalID: -731458630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Die_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 108
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b61192a0f9080a4fbb9b251ff285267
+      internalID: -198201270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Die_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 108
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1fcac716165824baec43d73bca7040
+      internalID: -1974996476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Hive_1
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 161
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1820d20715178d04ca9c159a7fc35e99
+      internalID: 1572856055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Hive_2
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 161
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b1f261d4f474e46b62b5e4cc2b5cf9
+      internalID: 1073937672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Hive_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 161
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c627fc6d2601a464988628facbc6f2c1
+      internalID: 930185983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Right_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 409
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba7653e37efeea4db45b52dc5196803
+      internalID: -1422754621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Run_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 450
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa88c74e60d0847ad05aa17fddb809
+      internalID: 1079452619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Right_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 409
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49ac1bbfafaa14d9fbdaf631c3edd7
+      internalID: 158554528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Run_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 450
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8d22480217e3342bce7907d52d868f
+      internalID: 96681205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Run_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 450
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a83b5166fddab4781990576263eb1c
+      internalID: 618757050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Die_2
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 448
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd648e40190b024a8fafdc85a4ab3a5
+      internalID: 1704310401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Die_3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 445
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42645d14c82f4f84594988ffc6facf31
+      internalID: -1854593563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Run_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 410
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b4393e9abccd741acd94cda9c97b7a
+      internalID: -1518967445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Run_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 410
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0691f53e23f3c47bb736ad32e15399
+      internalID: -1100457884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Run_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 410
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522b2da2668b87b4dbf5962543eacfdb
+      internalID: -1524100582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Die_1
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 406
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e2ef8e85664c44a4baa5419f733fd
+      internalID: -1347982404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Run_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 410
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc9200f75e9814095e8c2b4c1504e0
+      internalID: -397924906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Run_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 410
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef41b7d8cc33f479921b8ef976c8ea
+      internalID: 1367813754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Run_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 410
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f9b0a3ac194742b222ce018bc58b2
+      internalID: -2061807500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Die_2
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 406
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec86c4a8b1a22f49bdbb9352216b2b5
+      internalID: -1214439283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Green_Die_3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 403
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa21d05b162ed4bbf0c684e4fa0be8
+      internalID: 388037548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Left_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 323
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d5798488a6d1f4fa3c2433fd2dbef7
+      internalID: -1683762713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Left_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 322
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1edece07e21bc4786a771fdf4999c7
+      internalID: -701648547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Left_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 322
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda3e81a603e2a542866e4fadeac5406
+      internalID: 1201895479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Left_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f2e6684f2fd344b33f2a11cc110c3
+      internalID: -504618141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Left_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 322
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc1c0ca6c41ed848b0d9eebd70aeedc
+      internalID: 650937309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Left_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 322
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adeef77435e27c42b11bd1b8d4e6041
+      internalID: 1497464952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_Left_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 322
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af461bc0e22934f851a28c4e18323d
+      internalID: -1637542780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Run_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 313
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e573d6dc32924429e1cd48bc2f9779
+      internalID: -2108611686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Run_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 313
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bde7535fa736d4b988cf25c59b4b67
+      internalID: -1121014079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Run_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 313
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc30626a4c408489950013c4c13dc7
+      internalID: 1631916795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Run_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 313
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba34a45bfa4a9e143818e72323b881ff
+      internalID: -1069344619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Tree
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 349
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dbe30d758525d478b7e51f4583c662
+      internalID: 1779551442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Die_5
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 313
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2e9f9dbba688742be4875d9bc42795
+      internalID: 1349917490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 225
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7c5e3406ef804490e4f0dd29ff9ed
+      internalID: -331584395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 225
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7289f99168608ed4ca116a4df065018a
+      internalID: -1055935234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 225
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc66b40cf73e8cf42955fc9f490ef209
+      internalID: 637614446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 225
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331b6f9a4f805c34088fb92b531b9ad6
+      internalID: -2064040850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 225
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b4bc309c7f2a45ab96fff366dd0a5
+      internalID: -616523730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Run_4
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 218
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145239ae577f0614ea6e0390944fe803
+      internalID: -1066222025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 218
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1835c4a1bed3ee42bdf1e2826f6c5f7
+      internalID: 331536566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 218
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992f44d9c9d782541a78c4e8baa459b9
+      internalID: -1825701249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Spawn_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 218
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3a3d0b76db27c4d99e4649210fa73b
+      internalID: 1414976711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive_Spawn_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 218
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af72b0a37a84c894aae627e79c806611
+      internalID: 2142553014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 190
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4d98eb0ace88d49a98e76dbc2a4cc2
+      internalID: 1886722315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Hive_4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 161
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176e34cb5385fe40a19e810668763f6
+      internalID: -1912897010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Run_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 43
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2ed4a70bb9c1d47b07ccfebbb30216
+      internalID: -1562724952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Run_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 43
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb05aebf45110bd41b3a20cd74f0ce56
+      internalID: -275285951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Run_3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 44
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc773880a97d8a40b20236cc1de17f8
+      internalID: -484999385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Run_4
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 43
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d65d36212ce0418743d727bd564cf
+      internalID: -182006362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Die_1
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 57
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246993a908ddaa1418101cef3cd21334
+      internalID: 1746005044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Die_2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 48
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257e1eb9a821b044a862eafa0c90a8a5
+      internalID: -1884062622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Die_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 31
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5045452e5a5de48b684c2f9d5514df
+      internalID: 1892630438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Die_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 33
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0822d825dbaec43a1b3723f3ffabaa
+      internalID: 1357069125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Die_5
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 35
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b932c7126d4642ba3a8b51efb4d20
+      internalID: -1040539835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TNT_Die_6
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 37
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bc350553c20e94ba231ffdec77e569
+      internalID: -1474766104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Destroy_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 161
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecc4e0c0eb6c15428af370eacf5d569
+      internalID: 1596470480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Destroy_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f754ec240cd14a95cf91e7e5d1e8d
+      internalID: -1616809543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Destroy_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 130
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163552fc9c8762f4aa5b4ce6bac9efb4
+      internalID: 1793705805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet__Fire_Destroy_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 161
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c45d105a25d749ae8fa5e725cc85f
+      internalID: -1770578020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet__Fire_Destroy_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934cec34778914d4e8de2973f3e51a7d
+      internalID: -687178965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet__Fire_Destroy_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 130
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23c727d67d884d4ab53a5bb6ba9a2f3
+      internalID: 2138975939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet__Froze_Destroy_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 161
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f340edc4864b341a2c1f3feaf8f219
+      internalID: -153350179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet__Froze_Destroy_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97baa7ad5ff96143b87e92bc2a7cba9
+      internalID: -1721355463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet__Froze_Destroy_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 130
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90136a0242491cf44a37d13d41148e41
+      internalID: 1175044849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Die_4
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 489
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a6a8cc82ff6e4abf07fd6dacb5a62
+      internalID: 1122318322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Blue_Die_5
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 494
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d466c9b0147f142823105242fa9962
+      internalID: -1785519316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Red_Die_4
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 446
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a2c2f9e6e9dd4fa9588c5f386c924
+      internalID: -1042565893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_185: -101758595
+      Game_180: -914601056
+      Slime_Blue_Run_2: -1848231088
+      Game_88: -236445189
+      Game_188: 2144273210
+      Game_133: 682594203
+      Slime_Red_Die_2: 874575864
+      Game_131: -1842969954
+      Game_132: -1784795615
+      Game_175: 112100759
+      Game_135: -81249188
+      Game_186: -63755228
+      Game_63: -1414527047
+      Hive_Spawn_1: -1375484895
+      Game_153: 1005323224
+      Game_56: 1158556136
+      Game_28: 1547590120
+      Game_194: 112885339
+      TNT_Die_2: 2039408879
+      Game_55: -1762235390
+      Player_Run_Left_2: -1630915730
+      Slime_Green_Die_3: -119115729
+      Game_62: -632719228
+      Bullet_Hive_4: -1912897010
+      Game_6: 1256954645
+      Game_183: -478711617
+      Game_187: -156159653
+      Game_212: -699974218
+      Tree_Die_5: 139161099
+      Bullet__Fire_Destroy_1: 666015139
+      Game_85: -1200359461
+      Game_211: 1527645665
+      Bullet__Froze_Destroy_4: 1175044849
+      Game_59: 1979712925
+      Game_57: -1305427431
+      Game_70: 1938508874
+      Game_42: -1968079330
+      Game_198: -1023508283
+      Game_210: -1755832359
+      TNT_Die_4: 1357069125
+      Player_Run_4: 303996091
+      Bullet: -1061976929
+      Player_Run_Left_6: 1376386618
+      Game_173: 288037963
+      Slime_Blue_Run_8: -1910756265
+      Game_201: -95709499
+      Game_192: -1651514107
+      Slime_Blue_Die_3: -1123520350
+      Game_74: 1896256078
+      Game_72: -1634151475
+      TNT_Run_1: -1562724952
+      Slime_Green_Die_4: 532408193
+      Game_196: -1027572604
+      Game_58: -2145620041
+      Game_39: -437144106
+      Game_91: -600748194
+      Slime_Blue_Die_5: -1785519316
+      Player_Run_8: -160487033
+      Game_73: -1303274885
+      Slime_Red_Run_4: 1079452619
+      Player_Run_Left_5: 1967406526
+      Slime_Green_Run_4: 1660004273
+      TNT_Die_1: 1746005044
+      Game_177: 1377534622
+      Hive_Spawn_2: 617672882
+      Bullet_Hive_3: 930185983
+      Player: -1905855058
+      Slime_Blue_Run_3: -904061601
+      Game_195: 1638886738
+      Game_176: -1759258210
+      Game_65: -17488879
+      Player_Run_Right_6: 731149786
+      Tree_Die_1: -645723639
+      Bullet__Fire_Destroy_4: 2138975939
+      Hive_Run_1: 1889219302
+      Game_22: 43457073
+      Game_90: -213630659
+      Bullet_Destroy_3: -1616809543
+      Bullet_Fire: -1164130921
+      Slime_Green_Run_2: 129973602
+      Game_152: 1452158816
+      Slime_Red_Run_3: -1560651403
+      Game_179: -174456625
+      Slime_Red_Run_8: -334955650
+      Game_41: 242012596
+      Player_Run_Right_4: 637784549
+      Game_206: 1902773324
+      TNT_Die_5: -1040539835
+      Game_25: 142857000
+      TNT_Run_4: -182006362
+      Game_7: 1574557216
+      Slime_Blue_Run_4: 1857815002
+      Hive_Die_1: 1936736412
+      Tree_Run_1: 1260407912
+      Game_181: 1770609019
+      Slime_Blue_Die_2: -2088006410
+      Game_93: 357855532
+      Game_154: 1051723349
+      Game_94: -1867945274
+      Player_Run_Right_2: -1422754621
+      Game_172: 502653894
+      Player_Run_Left_4: -465166111
+      Game_23: 330445197
+      Slime_Red_Die_4: -1042565893
+      Game_86: -265953950
+      Game_193: -1630365500
+      Game_197: -909130533
+      Slime_Red_Die_3: -135358193
+      Player_Run_2: -274583480
+      Slime_Blue_Die_4: 1122318322
+      Slime_Red_Run_2: 1712568794
+      Slime_Red_Run_5: 96681205
+      Player_Run_Left_8: 2108371535
+      Slime_Green_Run_7: 1005993922
+      Player_Run_3: 2079081839
+      Game_60: 1751504438
+      Game_27: 1249950444
+      Tree_Run_3: -596954251
+      Bullet__Froze_Destroy_2: -153350179
+      Game_162: -1084954532
+      Slime_Blue_Run_7: 928952305
+      Player_Run_5: 1765266924
+      Player_Run_Left_7: 1968937548
+      Tree_Die_4: 1379557499
+      Game_83: -1149721860
+      Game_54: -1125328390
+      Slime_Red_Run_6: 618757050
+      Hive_Die_5: -1974996476
+      Bullet_Hive_2: 1073937672
+      Player_Run_Right_1: 158554528
+      Slime_Red_Run_7: 1706302341
+      Game_75: -1473877159
+      Game_213: 293523503
+      Bullet_Froze: -585703436
+      Slime_Red_Die_1: 667178238
+      Game_17: -1664192689
+      Game_174: 1512459262
+      Game_190: -2145904197
+      Game_157: -960502314
+      Game_92: -687244051
+      Bullet__Froze_Destroy_1: 191507222
+      Game_134: 6345193
+      Game_158: 1189445870
+      Game_207: -13556849
+      Game_203: -1294730951
+      Game_209: 2048948923
+      Tree_Run_2: -1081311577
+      Game_191: -1619633520
+      Gun: 422278683
+      Slime_Green_Run_6: -1434469450
+      Game_189: -1896717554
+      Game_40: 1800839289
+      Game_44: -587524363
+      Game_200: 1821481950
+      Game_19: 865223972
+      Tree_Die_2: 1449001822
+      Game_64: 1917084133
+      Slime_Red_Run_1: -611551843
+      Slime_Blue_Die_1: -18252018
+      Game_208: -447874595
+      TNT_Die_3: 1892630438
+      Game_204: -1442648110
+      Game_16: -1899907552
+      Slime_Green_Run_8: -1073530423
+      Slime_Green_Die_1: -1347982404
+      Bullet__Fire_Destroy_2: -1770578020
+      Hive_Die_4: -198201270
+      Hive_Run_4: -1706167375
+      Game_155: -2032448170
+      Bullet__Froze_Destroy_3: -1721355463
+      Game_89: 778678729
+      Game_182: 968871144
+      Game_164: 620889069
+      Tree_Run_4: -1849388426
+      Game_24: -908182988
+      Bullet_Tree: -1297155819
+      Player_Run_6: -619796346
+      Game_202: -1570839038
+      Bullet_Destroy_4: 1793705805
+      Slime_Green_Run_3: -1250214342
+      Game_61: -1185119350
+      Game_159: 1195344653
+      Slime_Red_Die_5: -1014954567
+      Hive_Run_2: -51431264
+      Hive_Die_3: -731458630
+      Slime_Blue_Run_6: -1158830919
+      Game_21: -1183820186
+      Hive_Run_3: -1511055946
+      Bullet__Fire_Destroy_3: -687178965
+      Game_184: 1036269904
+      Game_84: 1180174318
+      Player_Run_Right_7: -1245490986
+      Player_Run_Right_8: 1135436019
+      Tree_Die_3: -1963674830
+      Slime_Green_Die_5: -1241182982
+      Player_Run_Right_5: -1278392948
+      Slime_Blue_Run_1: -173402563
+      Slime_Green_Run_1: -1687821599
+      TNT_Die_6: -1474766104
+      Game_160: -2036381504
+      Game_178: 1905047430
+      TNT_Run_2: -275285951
+      Slime_Blue_Run_5: 551667412
+      Game_156: 1899039912
+      Hive_Spawn_3: 1606426250
+      Game_87: -1593230151
+      Game_161: -620518088
+      Bullet_Destroy_2: 1596470480
+      Player_Run_Right_3: 695509465
+      Slime_Green_Die_2: 1124262113
+      Player_Run_7: 812904963
+      Game_205: -58909575
+      Slime_Green_Run_5: 765865025
+      Player_Run_Left_1: 711981948
+      Game_199: -82841746
+      Player_Run_1: 1957544795
+      Player_Run_Left_3: 1181822137
+      Game_130: -80060782
+      Bullet_Hive_1: 1572856055
+      Game_18: -1088558927
+      Game_43: 1588179738
+      Hive_Spawn_4: 1349062137
+      TNT_Run_3: -484999385
+      Game_26: -15037689
+      Game_71: 526255298
+      Bullet_Destroy_1: -1134637969
+      Game_163: 1199851862
+      Hive_Die_2: -1612141791
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
